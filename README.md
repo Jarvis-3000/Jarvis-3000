@@ -1,4 +1,4 @@
-# Hi 👋, I'm Satish Gaud    [Developer by Heart]() 
+# Hi 👋, I'm Satish Gaud    [Developer by Heart](#) 
 [LinkedIn](https://www.linkedin.com/in/satish-gaud/)
 
 
