@@ -1,6 +1,6 @@
-# Hi 👋, I'm Satish Gaud     [LinkedIn](https://www.linkedin.com/in/satish-gaud/)
+# Hi 👋, I'm Satish Gaud    [Developer by Heart]() 
+[LinkedIn](https://www.linkedin.com/in/satish-gaud/)
 
-> # "Developer by Heart"
 
 > # Programming Languages
 >  * Javascript
@@ -12,9 +12,7 @@
 > * NextJS
 > * Redux
 > * React Router
-> * HTML
-> * CSS
-> * Tailwind
+> * HTML / CSS / Tailwind
 
 > # Backend Development
 > * Spring Boot
