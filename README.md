@@ -2,7 +2,6 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/satish-gaud/)
 ### [LeetCode  450+](https://leetcode.com/u/jarvis3000/)
-### [Resume](https://drive.google.com/file/d/1K7B_P-7bhyB6Jmuo4DDu11Djpq1X5rYe/view?usp=drivesdk)
 
 > # Programming Languages
 >  * Javascript
