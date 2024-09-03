@@ -5,6 +5,7 @@
 
 > # Programming Languages
 >  * Javascript
+>  * Python
 >  * Java
 
 > # Frontend Development
