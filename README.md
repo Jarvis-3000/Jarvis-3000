@@ -10,6 +10,7 @@
 > # Frontend Development
 > * React
 > * React Native (Android | IOS)
+> * Typescript
 > * NextJS
 > * Redux
 > * React Router
