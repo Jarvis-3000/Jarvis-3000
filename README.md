@@ -10,22 +10,12 @@
 
 > # Frontend Development
 > * React
+> * NextJS
 > * React Native (Android | IOS)
 > * Typescript
-> * NextJS
 > * Redux
 > * React Router
 > * HTML / CSS / Tailwind
-
-> # Backend Development
-> * Spring Boot
-> * JUnit
-> * Mockito
-> * REST API
-
-> # Database
-> * SQL (MySQL)
-> * NoSQL (MongoDB)
 
 > # Development Tools
 > * Postman
